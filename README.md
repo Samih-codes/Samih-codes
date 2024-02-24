@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samih-codes
+- 👋 Hi, I’m Samih!
 - 👀 I have a background in cryptocurrency trading with over 2 years of experience. Currently, I'm diving into the world of coding and working through a 100 Day Python Bootcamp! 
 - 🌱 I’m currently learning OOP and how to use Turtle Graphics to build simple games such as snake and pong.
 - 💞️ I'm looking to collaborate on any beginner to intermediate trading-related projects built on Python. I'm excited to work with others who share an interest in the intersection of trading and technology.
